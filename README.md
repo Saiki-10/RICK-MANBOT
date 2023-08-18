@@ -66,6 +66,14 @@
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Saiki-10/RICK-MANBOT)
            
+ ## Deploy on Cyclic 
+
+Take your new Telegram bot live with one click. \
+**Free hosting. No credit card required.**
+
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/eludadev/telegram-bot)
+
+<p align="center"><img src="assets/deploying-to-cyclic.gif" alt="Deploying an app to Cyclic" /></p>
 
 ## Deploy to Railway
 
