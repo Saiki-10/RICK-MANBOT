@@ -71,7 +71,7 @@
 Take your new Telegram bot live with one click. \
 **Free hosting. No credit card required.**
 
-[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/eludadev/telegram-bot)
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/Saiki-10/RICK-MANBOT)
 
 <p align="center"><img src="assets/deploying-to-cyclic.gif" alt="Deploying an app to Cyclic" /></p>
 
