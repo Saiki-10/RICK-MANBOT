@@ -65,7 +65,9 @@
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube" alt="Deploying an app to Heroku" ></a>                     
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Saiki-10/RICK-MANBOT)
-           
+
+<p align="center"><img src="https://telegra.ph/file/66e86ac6d7043588301a0.jpg" alt="Deploying an app to Heroku" /></p>
+
  ## Deploy on Cyclic 
 
 Take your new Telegram bot live with one click. \
