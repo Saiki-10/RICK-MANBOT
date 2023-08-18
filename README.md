@@ -63,7 +63,7 @@
 
 ## Deploy to Heroku
 
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
+<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube" alt="Deploying an app to Heroku" ></a>                     
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Saiki-10/RICK-MANBOT)
            
  ## Deploy on Cyclic 
@@ -75,9 +75,11 @@ Take your new Telegram bot live with one click. \
 
 <p align="center"><img src="assets/deploying-to-cyclic.gif" alt="Deploying an app to Cyclic" /></p>
 
-## Deploy to Railway
+## Deploy to Vercel
 
-🙏 create button your self
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Saiki-10/RICK-MANBOT)
+
+<p align="center"><img src="https://telegra.ph/file/939ab0e262951858edb5a.jpg" alt="Deploying an app to Vercel" /></p>
 
 ## Commands
 ```
