@@ -1,3 +1,5 @@
+![](image/image/photo_2023-08-19_01-01-08.jpg)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+RICK+-+MANBOT!;CREATED+BY+@LORDARCEUS!;A+SIMPLE+TG+AUTOFILTER+BOT!)</p>
 <p align="center">
 
